@@ -3,6 +3,8 @@
 這是一個基於 Python 開發(By Gemini 3.1)的桌面監控與動態偵測應用程式 (Motion Detector)。具備Telegram Bot 設定/監控回報機制，並可輕鬆打包為獨立執行檔。
 
 ## ✨ 功能特色
+![介面預覽](images/screenshot.png)
+![介面預覽](images/telegram.png)
 
 * **動態偵測**: 使用 OpenCV 進行影像與動作捕捉。
 * **系統列支援**: 可縮小至 Windows/macOS 系統列 (Tray icon) 於背景執行。
