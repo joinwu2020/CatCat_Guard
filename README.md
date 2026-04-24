@@ -18,3 +18,27 @@
 ```bash
 git clone [https://github.com/joinwu2020/CatCat_Guard.git](https://github.com/joinwu2020/CatCat_Guard.git)
 cd CatCat_Guard
+```
+
+2. 安裝必要的套件
+
+建議使用虛擬環境 (Virtual Environment)，然後安裝 requirements.txt 中的套件：
+```bash
+pip install -r requirements.txt
+```
+
+3. 執行程式
+```bash
+python CatCat_Guard.py
+```
+
+📦 打包成執行檔
+
+本程式已經處理好 PyInstaller 打包後的路徑問題。你可以使用以下指令將其打包為單一執行資料夾：
+```bash
+pyinstaller --noconfirm --onedir --windowed "CatCat_Guard.py"
+```
+
+📄 授權條款
+
+This project is licensed under the MIT License.
