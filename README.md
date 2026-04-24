@@ -1,7 +1,6 @@
 # 🐾 CatCat Guard
 
-這是一個基於 Python 開發的桌面監控與動態偵測應用程式 (Motion Detector)。
-具備Telegram Bot 操控/回報 機制，並可輕鬆打包為獨立執行檔。
+這是一個基於 Python 開發(By Gemini 3.1)的桌面監控與動態偵測應用程式 (Motion Detector)。具備Telegram Bot 設定/監控回報機制，並可輕鬆打包為獨立執行檔。
 
 ## ✨ 功能特色
 
