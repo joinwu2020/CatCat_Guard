@@ -40,6 +40,8 @@ python CatCat_Guard.py
 pyinstaller --noconfirm --onedir --windowed "CatCat_Guard.py"
 ```
 
+---
+
 ## 🤖 如何建立 Telegram Bot (使用 BotFather)
 
 若要使用本程式的自動提醒功能，你需要先建立一個 Telegram Bot 並取得 **API Token**。
@@ -64,9 +66,6 @@ pyinstaller --noconfirm --onedir --windowed "CatCat_Guard.py"
 
 ---
 
-### ⚠️ 安全提醒 (Security Note)
-* **請勿**將你的 API Token 直接寫死在程式碼中並上傳到 GitHub 公開儲存庫。
-* 建議使用 `.env` 檔案或 `config.json` 來儲存 Token，並確保將這些檔案列入 `.gitignore`。
 
 
 📄 授權條款
